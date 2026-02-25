@@ -12,7 +12,7 @@ public class Que2 {
             System.out.println(" First 10 number======"+t);
             t++;
         }
-        System.out.println(" Sum of first 10 number============"+sum);
+        System.out.println(" Sum of first 10 number================="+sum);
     }
 
     public static void main(String[] args) {
